@@ -8,7 +8,7 @@ const Body = () => {
         <BodyContainer>
 <Search>Search</Search>
 <ResContainer>
-<ResCard title="Meghana Foods" />
+<ResCard title="Meghana Fooods" />
 </ResContainer>
         </BodyContainer>
     )
